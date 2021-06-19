@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621111868 source:f:\utn\a.e. datos\tp1\4\3b\main.cpp
+	<iostream>
+	<math.h>
+	<locale.h>
+
